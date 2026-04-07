@@ -1,6 +1,6 @@
 # Shantanu Singh – QA Engineer Portfolio
 
-Welcome to my professional portfolio site. I'm a Software QA Engineer with 4 years of experience in automation testing, test planning, and CI/CD integration. This portfolio highlights my skills, projects, and key achievements.
+Welcome to my professional portfolio site. I'm a Software QA Engineer with 5 years of experience in automation testing, test planning, and CI/CD integration. This portfolio highlights my skills, projects, and key achievements.
 
 ## 🚀 What’s Included
 
